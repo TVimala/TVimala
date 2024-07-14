@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm TVimala</h1>
+
 - 🌱 I’m currently learning **Full-stack**
 
 - 📫 How to reach me **vimalareddytummuru@gmail.com**
