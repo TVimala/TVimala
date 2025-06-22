@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm TVimala</h1>
+<h1 align="center">👋 Hi, I'm Vimala Reddy!!</h1>
 
-- 🌱 I’m currently learning **Full-stack**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vimalareddytummuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalareddytummuru" height="30" width="40" /></a>
+<p align="center">
+<!--   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=google-chrome" /></a> -->
+  <a href="https://www.linkedin.com/in/vimalareddytummuru/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vimalareddytummuru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><br>
-  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+---
 
+## 💡 About Me
+
+🎓 I'm a **final-year B.Tech CSE student** who loves transforming ideas into real-world tech solutions.  
+🛠️ **Building with intention, scaling with innovation** — I code not just to make things work, but to make them better.
+💻 Passionate about **Web Development**, **Artificial Intelligence**, and creating intuitive, impact-driven products.   
+📈 Fueling my growth with logic and curiosity — consistently improving my algorithmic thinking and coding precision.
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Artificial Intelligence-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2b%2b" />
+</p>
+
+---
+
+## 🛠️ What I Build
+
+- **Frontend**: React.js, HTML, CSS, Bootstrap 
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, Firebase  
+- **Languages**: C, C++, Java, Javascript
+- **Tools**: Git, GitHub, Postman, Figma, Vercel, VScode
+- **Core Concepts**: Data Structures, Algorithms, OOPs, REST APIs, Debugging, Responsive Design, Computer Networks 
+
+---
+
+## 📈 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
