@@ -55,8 +55,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVimala&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=TVimala&theme=tokyonight&ring=66c2ff&fire=66c2ff&currStreakLabel=66c2ff&sideNums=66c2ff&sideLabels=66c2ff" alt="GitHub Streak" />
 </p>
+
 
 
 
