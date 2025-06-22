@@ -11,9 +11,10 @@
 ## 💡 About Me
 
 🎓 I'm a **final-year B.Tech CSE student** who loves transforming ideas into real-world tech solutions.  
-🛠️ **Building with intention, scaling with innovation** — I code not just to make things work, but to make them better.
-💻 Passionate about **Web Development**, **Artificial Intelligence**, and creating intuitive, impact-driven products.   
-📈 **Fueling my growth with logic and curiosity** — consistently improving my algorithmic thinking and coding precision.
+🛠️ **Building with intention, scaling with innovation** — I code not just to make things work, but to make them better.  
+💻 Passionate about **Web Development**, **Artificial Intelligence**, and creating intuitive, impact-driven products.  
+📈 **Fueling my growth with logic and curiosity** — consistently improving my algorithmic thinking and coding precision.  
+
 
 ---
 
