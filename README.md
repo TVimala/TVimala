@@ -46,8 +46,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimalareddy&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=vimalareddy&theme=tokyonight&ring=66c2ff&fire=66c2ff&currStreakLabel=66c2ff&sideNums=66c2ff&sideLabels=66c2ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalareddy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalareddy&theme=tokyonight" />
 </p>
 
 
