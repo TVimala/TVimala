@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2b%2b" />
 </p>
 
----
-
-## 🛠️ What I Build
-
 - **Frontend**: React.js, HTML, CSS, Bootstrap 
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Firebase  
@@ -48,15 +44,12 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVimala&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimalareddy&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=vimalareddy&theme=tokyonight&ring=66c2ff&fire=66c2ff&currStreakLabel=66c2ff&sideNums=66c2ff&sideLabels=66c2ff" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TVimala&theme=tokyonight&ring=66c2ff&fire=66c2ff&currStreakLabel=66c2ff&sideNums=66c2ff&sideLabels=66c2ff" alt="GitHub Streak" />
-</p>
 
 
 
