@@ -58,9 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVimala&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TVimala&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 
 ---
