@@ -13,7 +13,7 @@
 🎓 I'm a **final-year B.Tech CSE student** who loves transforming ideas into real-world tech solutions.  
 🛠️ **Building with intention, scaling with innovation** — I code not just to make things work, but to make them better.
 💻 Passionate about **Web Development**, **Artificial Intelligence**, and creating intuitive, impact-driven products.   
-📈 Fueling my growth with logic and curiosity — consistently improving my algorithmic thinking and coding precision.
+📈 **Fueling my growth with logic and curiosity** — consistently improving my algorithmic thinking and coding precision.
 
 ---
 
@@ -27,7 +27,10 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Artificial Intelligence-lightblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2b%2b" />
 </p>
@@ -39,7 +42,7 @@
 - **Frontend**: React.js, HTML, CSS, Bootstrap 
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Firebase  
-- **Languages**: C, C++, Java, Javascript
+- **Languages**: C, C++, Javascript
 - **Tools**: Git, GitHub, Postman, Figma, Vercel, VScode
 - **Core Concepts**: Data Structures, Algorithms, OOPs, REST APIs, Debugging, Responsive Design, Computer Networks 
 
@@ -48,7 +51,7 @@
 ## 📈 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVimala&layout=compact&theme=tokyonight" />
 </p>
 
 ---
